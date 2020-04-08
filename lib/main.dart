@@ -8,7 +8,7 @@ void main() {
         appBar: AppBar(
           backgroundColor: Colors.greenAccent[700],
           title: Text(
-            "I am hungry",
+            "I am wild",
           ),
         ),
         body: Column(
